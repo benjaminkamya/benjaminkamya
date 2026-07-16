@@ -5,7 +5,7 @@ You can call me **Ben**.
 I'm a Pharmacology graduate from the University of Reading and an incoming MSc student in Artificial Intelligence for Drug Discovery at Queen Mary University of London.
 
 My interests lie at the intersection of pharmacology, computational chemistry and artificial intelligence. I'm currently building open source scientific software to support molecular modelling, cheminformatics and early stage drug discovery workflows.
-You can call me **Ben**.
+
 
 I'm a Pharmacology graduate from the University of Reading and an incoming MSc student in Artificial Intelligence for Drug Discovery at Queen Mary University of London.
 
