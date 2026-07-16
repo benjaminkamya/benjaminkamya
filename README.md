@@ -1,12 +1,12 @@
 # Hi, I'm Benjamin Kamya👋
 
-You can call me Ben
+You can call me Ben.
 
 I'm a Pharmacology graduate from the University of Reading and an incoming MSc student in Artificial Intelligence for Drug Discovery at Queen Mary University of London.
+
 My interests lie at the intersection of pharmacology, computational chemistry and artificial intelligence. I'm currently building open source scientific software for computational drug discovery, cheminformatics and molecular modelling. 
 
-My GitHub documents my transition from pharmacology to computational drug discovery through open source scientific software projects.
-
+This GitHub documents my transition from pharmacology to computational drug discovery through open source scientific software projects, each inspired by real problems encountered during my studies.
 
 ## Research Interests
 
