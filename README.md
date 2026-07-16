@@ -1,8 +1,5 @@
 # Hi, I'm Benjamin Kamya 👋
 
-
-![](https://komarev.com/ghpvc/?username=benjaminkamya&color=blue)
-
 You can call me **Ben**.
 
 I'm a Pharmacology graduate from the University of Reading and an incoming MSc student in Artificial Intelligence for Drug Discovery at Queen Mary University of London.
