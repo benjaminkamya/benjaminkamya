@@ -6,7 +6,7 @@ I'm a Pharmacology graduate from the University of Reading and an incoming MSc s
 
 My interests lie at the intersection of pharmacology, computational chemistry and artificial intelligence. I'm currently building open source scientific software for computational drug discovery, cheminformatics and molecular modelling.
 
-
+---
 My GitHub documents my transition from pharmacology to computational drug discovery through open source scientific software projects.
 ---
 
