@@ -66,7 +66,7 @@ A pharmacokinetic simulator modelling first order elimination and repeated dose 
 
 ## ⚡ Fun Fact
 
-Every project on my GitHub started with me asking, **"There has to be a faster way to do this."** DockAssist is a good example. It was inspired by my undergraduate dissertation investigating the reproducibility of molecular docking workflows and grew from a simple idea into an open source cheminformatics project.
+Every project on my GitHub started with me asking, "There has to be a faster way to do this." DockAssist was the first, inspired by my undergraduate dissertation on molecular docking reproducibility, and it set the direction for everything that followed.
 
 ---
 
